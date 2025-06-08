@@ -1,0 +1,25 @@
+mes,sentimiento_positivo,sentimiento_negativo,volumen_menciones,topico_predominante,crisis_detectada,tiempo_respuesta_horas,medio_principal,indice_confianza_ciudadana,intervenciones_comunicacion,menciones_positivas,menciones_negativas
+2022-01,42.48,57.24,13619,contrataciones públicas,No,19.6,Twitter,63.6,1,5785,7795
+2022-02,38.83,64.33,14018,confianza en la FCC,Sí,31.3,Facebook,60.26,1,5443,9017
+2022-03,37.68,61.39,12804,contrataciones públicas,No,2.4,YouTube,54.65,0,4824,7859
+2022-04,37.19,60.79,13085,caso mediático,Sí,26.9,Foros,48.53,0,4866,7953
+2022-05,47.33,52.22,12568,contrataciones públicas,No,4.9,Twitter,61.73,0,5948,6563
+2022-06,40.55,57.14,13439,confianza en la FCC,No,9.0,YouTube,63.25,0,5450,7679
+2022-07,36.99,66.71,12566,caso mediático,No,6.7,Facebook,69.94,1,4648,8383
+2022-08,33.9,66.52,7800,confianza en la FCC,No,5.4,Foros,66.18,1,2643,5188
+2022-09,43.69,56.65,12510,contrataciones públicas,No,10.5,Facebook,56.13,1,5465,7086
+2022-10,36.4,62.68,15542,corrupción,Sí,39.4,Noticias Online,46.42,1,5657,9741
+2022-11,41.62,57.61,11307,confianza en la FCC,No,15.1,Noticias Online,71.19,0,4706,6513
+2022-12,44.66,53.67,12326,contrataciones públicas,No,13.7,Foros,70.85,0,5504,6614
+2023-01,37.6,62.02,10434,corrupción,No,6.0,Noticias Online,69.88,1,3923,6471
+2023-02,46.78,53.07,15808,contrataciones públicas,No,13.8,Foros,61.13,0,7395,8390
+2023-03,41.81,61.27,13310,eficacia institucional,Sí,51.6,Twitter,41.28,2,5564,8154
+2023-04,44.11,56.06,12752,caso mediático,No,12.5,Noticias Online,53.07,0,5624,7149
+2023-05,38.9,61.81,17294,contrataciones públicas,Sí,30.8,Twitter,52.15,1,6727,10689
+2023-06,37.49,64.34,14521,corrupción,Sí,30.7,Twitter,60.08,1,5444,9342
+2023-07,40.49,61.45,12044,contrataciones públicas,No,10.4,Foros,62.65,1,4876,7401
+2023-08,32.68,67.91,14552,eficacia institucional,Sí,36.1,Noticias Online,55.59,1,4755,9882
+2023-09,32.92,66.24,13143,corrupción,Sí,28.0,Noticias Online,56.03,1,4327,8705
+2023-10,42.02,61.75,14536,corrupción,Sí,38.6,Twitter,56.55,1,6108,8976
+2023-11,30.41,69.54,14350,caso mediático,Sí,60.6,Facebook,55.85,1,4363,9979
+2023-12,41.51,58.42,11378,eficacia institucional,No,17.7,Foros,69.51,1,4722,6647
